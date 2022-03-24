@@ -1,4 +1,4 @@
-# Open-Soure-Project-Demo
+# Open-Source-Project-Demo
 
 ## About Project?
 A Website landing page created by Ruth.
